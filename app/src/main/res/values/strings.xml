@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reader_RSS</string>
+    <string name="enter_rss">Введите, пожалуйста, RRS-ссылку:</string>
+    <string name="rss">https://people.onliner.by/feed.xml</string>
+</resources>
